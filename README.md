@@ -10,4 +10,4 @@ Once the gradle files have been synced, press the play button on the top of the 
 ![alt text](https://raw.githubusercontent.com/niknabhankhan/open-event-organizer-android/development/GoogleCodeInReadmeFiles/GoogleCodeInAndroid2.png)
 ![alt text](https://github.com/niknabhankhan/open-event-organizer-android/blob/development/GoogleCodeInReadmeFiles/GoogleCodeInAndroid3.png)
 And volia! The app has now been launched.
-![alt text](https://github.com/niknabhankhan/open-event-organizer-android/blob/development/GoogleCodeInReadmeFiles/GoogleCodeInAndroid3.png)
+![alt text](https://raw.githubusercontent.com/niknabhankhan/open-event-organizer-android/development/GoogleCodeInReadmeFiles/GoogleCodeInAndroid4.png)
