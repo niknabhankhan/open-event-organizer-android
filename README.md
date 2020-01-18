@@ -9,3 +9,5 @@ Then once you've opened it it'll start syncing the gradle files. It'll take 6 to
 Once the gradle files have been synced, press the play button on the top of the window to start the building process.
 ![alt text](https://raw.githubusercontent.com/niknabhankhan/open-event-organizer-android/development/GoogleCodeInReadmeFiles/GoogleCodeInAndroid2.png)
 ![alt text](https://github.com/niknabhankhan/open-event-organizer-android/blob/development/GoogleCodeInReadmeFiles/GoogleCodeInAndroid3.png)
+And volia! The app has now been launched.
+![alt text](https://github.com/niknabhankhan/open-event-organizer-android/blob/development/GoogleCodeInReadmeFiles/GoogleCodeInAndroid3.png)
